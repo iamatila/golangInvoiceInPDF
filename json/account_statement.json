@@ -1,0 +1,107 @@
+[
+    {
+        "Date": "2022-01-01",
+        "PaymentDescription": "Payment for services",
+        "TransactionType": "Credit",
+        "Amount": 500.00,
+        "Balance": 1500.00
+    },
+    {
+        "Date": "2022-01-05",
+        "PaymentDescription": "Online purchase",
+        "TransactionType": "Debit",
+        "Amount": 200.50,
+        "Balance": 1299.50
+    },
+    {
+        "Date": "2022-01-10",
+        "PaymentDescription": "Salary deposit",
+        "TransactionType": "Credit",
+        "Amount": 1500.00,
+        "Balance": 2799.50
+    },
+    {
+        "Date": "2022-01-15",
+        "PaymentDescription": "Utilities bill",
+        "TransactionType": "Debit",
+        "Amount": 100.00,
+        "Balance": 2699.50
+    },
+    {
+        "Date": "2022-01-20",
+        "PaymentDescription": "Withdrawal from ATM",
+        "TransactionType": "Debit",
+        "Amount": 50.00,
+        "Balance": 2649.50
+    },
+    {
+        "Date": "2022-02-01",
+        "PaymentDescription": "Credit card payment",
+        "TransactionType": "Debit",
+        "Amount": 150.00,
+        "Balance": 2499.50
+    },
+    {
+        "Date": "2022-02-05",
+        "PaymentDescription": "Online transfer",
+        "TransactionType": "Credit",
+        "Amount": 300.00,
+        "Balance": 2799.50
+    },
+    {
+        "Date": "2022-02-10",
+        "PaymentDescription": "Rent payment",
+        "TransactionType": "Debit",
+        "Amount": 800.00,
+        "Balance": 1999.50
+    },
+    {
+        "Date": "2022-02-15",
+        "PaymentDescription": "Interest earned",
+        "TransactionType": "Credit",
+        "Amount": 50.00,
+        "Balance": 2049.50
+    },
+    {
+        "Date": "2022-02-20",
+        "PaymentDescription": "Grocery shopping",
+        "TransactionType": "Debit",
+        "Amount": 120.00,
+        "Balance": 1929.50
+    },
+    {
+        "Date": "2022-03-01",
+        "PaymentDescription": "Medical expenses",
+        "TransactionType": "Debit",
+        "Amount": 75.00,
+        "Balance": 1854.50
+    },
+    {
+        "Date": "2022-03-05",
+        "PaymentDescription": "Dividend received",
+        "TransactionType": "Credit",
+        "Amount": 100.00,
+        "Balance": 1954.50
+    },
+    {
+        "Date": "2022-03-10",
+        "PaymentDescription": "Car loan payment",
+        "TransactionType": "Debit",
+        "Amount": 300.00,
+        "Balance": 1654.50
+    },
+    {
+        "Date": "2022-03-15",
+        "PaymentDescription": "Bonus received",
+        "TransactionType": "Credit",
+        "Amount": 500.00,
+        "Balance": 2154.50
+    },
+    {
+        "Date": "2022-03-20",
+        "PaymentDescription": "Dinner with friends",
+        "TransactionType": "Debit",
+        "Amount": 80.00,
+        "Balance": 2074.50
+    }
+]
